@@ -60,6 +60,12 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Postman to test request to nest api 
+https://www.postman.com/downloads/
+
+## client and GUI for MongoDB
+https://studio3t.com/
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
