@@ -54,7 +54,7 @@ $ npm run test:cov
 
 https://www.postman.com/downloads/
 
-## client and GUI for MongoDB
+## Client and GUI for MongoDB
 
 https://studio3t.com/
 
