@@ -31,6 +31,10 @@
 ## Installation
 
 ```bash
+git clone https://github.com/ukomiljon/NestRest.git
+```
+
+```bash
 $ npm install
 ```
 
